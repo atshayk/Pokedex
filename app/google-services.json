@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813736980221",
+    "project_id": "pokedex-975db",
+    "storage_bucket": "pokedex-975db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813736980221:android:559e9cda51cd546b8f9894",
+        "android_client_info": {
+          "package_name": "com.poke.dex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrvRhC8OMSvR7ZLXF3Vxr0dAjOspzZ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
