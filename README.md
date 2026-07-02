@@ -67,4 +67,4 @@ The app strictly adheres to **MAD (Modern Android Development)** architectural p
 * Gemini SDK support
   
 ---
-Developed by Anis Timur Shayk. Thank you for checking it out!
+*Developed by @atshayk*
